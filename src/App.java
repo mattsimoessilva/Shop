@@ -8,7 +8,7 @@ public class App {
             Scanner reader = new Scanner(System.in, "CP850");
 
             System.out.println("""
-                Bem-vindo à biblioteca. Selecione um número correspondente a uma opção do menu: \n
+                Bem-vindo à loja. Selecione um número correspondente a uma opção do menu: \n
                 - Digite 1 para cadastrar produto \n
                 - Digite 2 para cadastrar grupo do produto \n
                 - Digite 3 para cadastrar fornecedor \n
